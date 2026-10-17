@@ -91,7 +91,9 @@ Mata Kuliah **Visualisasi Data (STA1262) - Paralel K3**
 
 * **Farhah Lailatul Azizah** ([Tableau Public Profile](https://public.tableau.com/app/profile/farhah.lailatul.azizah))
 * **Gabriel Jel Blessly Aipassa** ([GitHub Profile](https://github.com/BlesslyA))
-* Serta rekan anggota Kelompok 10 lainnya
+* **Gita Lavena Y**
+* **Mutiara Qur'ani**
+* **Aaron August**
 
 ---
 
